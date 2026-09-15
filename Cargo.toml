@@ -1,6 +1,6 @@
 [workspace]
 resolver = "3"
 members = [
-    "GuessingGame",
-    "HelloWorld",
+    "Rust-02GuessingGame",
+    "Rust-01HelloWorld", "Rust-03CommonConcepts",
 ]
